@@ -1,0 +1,16 @@
+! Input for Boost
+! Beams
+Beams:idA = 2212 ! first incoming beam is a 2212, i.e., a proton. 
+Beams:idB = -2212 ! second beam is an anti-proton
+Beams:eCM = 5500. ! the cm energy of collisions (in GeV)
+! Event
+Main:numberOfEvents = 10000 ! number of events
+HadronLevel:Hadronize = off ! Hadronization off
+! Display information
+! Next:numberShowEvent = 1 ! show first 1 events
+! switch on processes
+Top:gg2ttbar = on
+Top:qqbar2ttbar = on
+Random:setSeed = on
+! Random seed based on time
+Random:seed = 0
