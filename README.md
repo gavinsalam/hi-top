@@ -16,8 +16,9 @@ TO DO
   is more relevant? What about the fact that the medium is moving
   v. top/W velocities (which are not speed of light)?
 
-      - Liliana: To be entirely correct, we could separate the 3 velocity components and apply the boost indepedently (?). The results that are shown so far have a minimum value (taken with only transverse boost) and a maximum value (energy boost). The correct value will be inside this interval. 
-      As for the medium, a Bjorken expansion model is usually considered to describe the hydrodynamical evolution. This is the most simple model. As such, in a first approximation the average quantities depend only on the proper time (altough, if one takens into account flucuations, then a dependency with rapidity have to be introduced; a very brief summary of these models can be found here: http://www.physi.uni-heidelberg.de/~fschney/2008SS-Preseminar/Model.pdf).
+      - Liliana: To be entirely correct, we could separate the 3 velocity components and apply the boost indepedently (?). The results that are shown so far have a minimum value (taken with only transverse boost) and a maximum value (energy boost). The correct value will be inside this interval. As for the medium, a Bjorken expansion model is usually considered to describe the hydrodynamical evolution. This is the most simple model. As such, in a first approximation the average quantities depend only on the proper time (altough, if one takens into account flucuations, then a dependency with rapidity have to be introduced) 
+            A very brief summary of these models can be found here: http://www.physi.uni-heidelberg.de/~fschney/2008SS-Preseminar/Model.pdf
+
 
 - implement a decoherence time that uses either 
 
